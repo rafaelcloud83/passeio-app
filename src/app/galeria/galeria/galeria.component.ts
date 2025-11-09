@@ -30,7 +30,7 @@ export class GaleriaComponent implements OnInit {
   }
 
   flitrar() {
-    console.log('Valores digitados: ', this.nomeFiltro, this.categoriaFiltro);
+    //console.log('Valores digitados: ', this.nomeFiltro, this.categoriaFiltro);
     this.lugarService.filtrar(this.nomeFiltro, this.categoriaFiltro)
       .subscribe(resultado => this.lugares = resultado);
   }

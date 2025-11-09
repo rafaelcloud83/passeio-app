@@ -28,7 +28,7 @@ export class LugarService {
       parametros = parametros.set('categoria', categoria);
     }
 
-    console.log('Parametros: ', parametros);
+    //console.log('Parametros: ', parametros);
 
     return this.http.get<Lugar[]>('http://localhost:3000/lugares', {
       params: parametros
