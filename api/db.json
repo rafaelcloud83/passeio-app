@@ -19,6 +19,14 @@
       "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ROGERIO_CASSIMIRO_morro_da_caixa_dagua_GUARUJA_SP_%2827787693658%29.jpg/1920px-ROGERIO_CASSIMIRO_morro_da_caixa_dagua_GUARUJA_SP_%2827787693658%29.jpg",
       "avaliacao": "5",
       "id": 1
+    },
+    {
+      "nome": "Restaurante Zé da Praia",
+      "categoria": "Restaurantes",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/62/42/ed/caption.jpg?w=900&h=500&s=1",
+      "avaliacao": "4",
+      "id": 2
     }
   ]
 }
