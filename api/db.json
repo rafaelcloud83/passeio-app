@@ -4,6 +4,21 @@
       "nome": "Restaurantes",
       "descricao": "Locais para você aproveitar a gastronomia.",
       "id": "kB4Havh"
+    },
+    {
+      "nome": "Praias",
+      "descricao": "Lugar para relaxar com a familia",
+      "id": "5vAW-2J"
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Praia Guarujá",
+      "categoria": "Praias",
+      "localizacao": "Guarujá",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ROGERIO_CASSIMIRO_morro_da_caixa_dagua_GUARUJA_SP_%2827787693658%29.jpg/1920px-ROGERIO_CASSIMIRO_morro_da_caixa_dagua_GUARUJA_SP_%2827787693658%29.jpg",
+      "avaliacao": "5",
+      "id": 1
     }
   ]
 }
